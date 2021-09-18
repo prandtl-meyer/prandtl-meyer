@@ -2,7 +2,7 @@
 - 👀 I’m interested in pretty much everything, unfortunately my time is limited.
 - 🌱 I’m currently learning Python and FastAPI
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me at anytime you want on any subject, here.
+- 📫 You can reach me at anytime you want on any subject, right here on Github.
 
 <!---
 prandtl-meyer/prandtl-meyer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
