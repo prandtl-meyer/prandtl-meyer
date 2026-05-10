@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prandtl-meyer
 - 👀 I’m interested in pretty much everything, unfortunately my time is limited.
-- 🌱 I’m currently learning Python and FastAPI
+- 🌱 I’m currently learning about AI
 - 💞️ I’m looking to collaborate on anything.
 - 📫 You can reach me at anytime you want on any subject, right here on Github.
 
